@@ -38,6 +38,7 @@
 
 * [Semantic editor combinators](http://conal.net/blog/posts/semantic-editor-combinators)
 * [Lenses, Folds, and Traversals](https://www.youtube.com/watch?v=cefnmjtAolY)
+* [Lenses In Pictures](http://adit.io/posts/2013-07-22-lenses-in-pictures.html)
 
 # Generalized algebraic data type (GADT)
 
@@ -53,6 +54,7 @@
 * [xmonad-contrib](http://xmonad.org/xmonad-docs/xmonad-contrib/doc-index-All.html)
 * [reactive-banana](http://hackage.haskell.org/package/reactive-banana/docs/doc-index.html)
 * [vty-ui](http://hackage.haskell.org/package/vty-ui/docs/doc-index-All.html)
+* [parsec](http://legacy.cs.uu.nl/daan/download/parsec/parsec.html)
 
 # Hackage
 
@@ -73,6 +75,7 @@
 * [ICFP Programming Contest](http://en.wikipedia.org/wiki/ICFP_Programming_Contest)
 * [exercism.io](http://exercism.io/)
 * [Project Euler](https://projecteuler.net/)
+* [20 Intermediate Haskell Exercises](blog.tmorris.net/posts/20-intermediate-haskell-exercises/)
 
 # Other collections
 
