@@ -54,7 +54,7 @@
 * [xmonad-contrib](http://xmonad.org/xmonad-docs/xmonad-contrib/doc-index-All.html)
 * [reactive-banana](http://hackage.haskell.org/package/reactive-banana/docs/doc-index.html)
 * [vty-ui](http://hackage.haskell.org/package/vty-ui/docs/doc-index-All.html)
-* [parsec](http://legacy.cs.uu.nl/daan/download/parsec/parsec.html)
+* [parsec](http://hackage.haskell.org/package/parsec/docs/doc-index-All.html)
 
 # Hackage
 
@@ -94,3 +94,4 @@
 * [Functor-Applicative-Monad Proposal (AMP)](http://www.haskell.org/haskellwiki/Functor-Applicative-Monad_Proposal)
 * [Finger Trees Done Right (I hope)](http://scienceblogs.com/goodmath/2010/04/26/finger-trees-done-right-i-hope/)
 * [Comonadic Life](http://blog.emillon.org/posts/2012-10-18-comonadic-life.html)
+* [parsec](http://legacy.cs.uu.nl/daan/download/parsec/parsec.html)
