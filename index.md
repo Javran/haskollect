@@ -29,6 +29,10 @@
 * [What does “coalgebra” mean in the context of programming?](http://stackoverflow.com/questions/16015020/what-does-coalgebra-mean-in-the-context-of-programming)
 * [Catamorphism](http://en.wikipedia.org/wiki/Catamorphism)
 
+## Recursion Schemes
+
+* [Program Reduction: A Win for Recursion Schemes](http://newartisans.com/2018/04/win-for-recursion-schemes/)
+
 # Functional reactive programming
 
 * [Functional Reactive Programming](http://www.haskell.org/haskellwiki/Functional_Reactive_Programming)
