@@ -32,6 +32,7 @@
 ## Recursion Schemes
 
 * [Program Reduction: A Win for Recursion Schemes](http://newartisans.com/2018/04/win-for-recursion-schemes/)
+* [Monadic Recursion Schemes](https://jtobin.io/monadic-recursion-schemes)
 
 # Functional reactive programming
 
